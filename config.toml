@@ -66,7 +66,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [X-Twitter.patches]
-"github:crimera/piko" = ["Browse tweet object", "Dynamic color"]
+"github:crimera/piko" = []
 
 [Instagram]
 enabled = true
